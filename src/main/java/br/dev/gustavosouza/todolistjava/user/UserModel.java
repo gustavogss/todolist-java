@@ -1,7 +1,16 @@
 package br.dev.gustavosouza.todolistjava.user;
 
 public class UserModel {
-    String username;
-    String name;
-    String password;
+    private String username;
+    private String name;
+    private String password;
+    public String getUsername() {
+        return username;
+    }
+    public String getName() {
+        return name;
+    }
+    public String getPassword() {
+        return password;
+    }
 }
