@@ -7,5 +7,6 @@
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [H2 Database Engine](https://www.h2database.com/html/main.html)
 - [Lombock](https://projectlombok.org/)
+- [BCrypt](https://github.com/patrickfav/bcrypt)
 
 ## Features:
