@@ -13,3 +13,4 @@
 - Criar usuário
 - Criar tarefa
 - Listar tarefas
+- Editar tarefa
