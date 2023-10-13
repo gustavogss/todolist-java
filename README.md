@@ -10,3 +10,6 @@
 - [BCrypt](https://github.com/patrickfav/bcrypt)
 
 ## Features:
+- Criar usuário
+- Criar tarefa
+- Listar tarefas
