@@ -6,5 +6,7 @@
 - Maven
 - Spring
 - H2 Database Engine
+- BCrypt
+
 
 
