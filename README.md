@@ -1,5 +1,5 @@
 # ToDoList
-- Gerenciador de Tarefas
+- API de gerenciamento de tarefas
 
 ## Stacks utilizadas :robot:
 - Java17
@@ -7,6 +7,10 @@
 - Spring
 - H2 Database Engine
 - BCrypt
+
+## Features:
+- Cadastrar usuário;
+- Cadastrar tarefas;
 
 
 
