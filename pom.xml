@@ -12,7 +12,7 @@
 	<artifactId>todolist-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todolist-java</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Todolist Java</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -26,12 +26,18 @@
 			<groupId>at.favre.lib</groupId>
 			<artifactId>bcrypt</artifactId>
 			<version>0.10.2</version>
-		</dependency>
+		</dependency>	
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>	
+			<optional>true</optional>		
 		</dependency>
 
 		<dependency>
