@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.dev.gustavosouza</groupId>
-	<artifactId>todolist-java</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>todolist-java</name>
+	<artifactId>todolistjava</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>todolistjava</name>
 	<description>Todolist Java</description>
 	<properties>
 		<java.version>17</java.version>
@@ -56,10 +56,7 @@
 		<version>1.18.32</version>
 		<scope>provided</scope>
 	</dependency>
-
-	</dependencies>
-
-	
+	</dependencies>	
 
 	<build>
 		<plugins>
