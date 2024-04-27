@@ -10,7 +10,11 @@
 
 ## Features:
 - Cadastrar usuário;
+- Validar usuário;
 - Cadastrar tarefas;
+- Listar Tarefas;
+- Atualizar tarefas;
+
 
 
 
