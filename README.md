@@ -18,8 +18,7 @@
 - Listar Tarefas;
 - Atualizar tarefas;
 
-## Deploy:
-[API]()
+
 
 
 
